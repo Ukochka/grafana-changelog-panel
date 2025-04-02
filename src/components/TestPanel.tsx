@@ -2,7 +2,7 @@ import React from 'react';
 import { PanelProps } from '@grafana/data';
 import { SimpleOptions } from 'types';
 import { css, cx } from '@emotion/css';
-import { useStyles2, useTheme2 } from '@grafana/ui';
+import { useStyles2 } from '@grafana/ui';
 import { PanelDataErrorView } from '@grafana/runtime';
 
 interface Props extends PanelProps<SimpleOptions> {}
@@ -28,7 +28,6 @@ const getStyles = () => {
 };
 
 export const TestPanel: React.FC<Props> = ({ options, data, width, height, fieldConfig, id }) => {
-  const theme = useTheme2();
   const styles = useStyles2(getStyles);
 
   if (data.series.length === 0) {
@@ -45,7 +44,6 @@ export const TestPanel: React.FC<Props> = ({ options, data, width, height, field
         `
       )}
     >
-
       <div className={styles.textBox}>
         {options.showSeriesCount && (
           <div data-testid="simple-panel-series-counter">Number of series: {data.series.length}</div>
