@@ -11,7 +11,7 @@ const getStyles = () => {
   return {
     wrapper: css`
       font-family: Open Sans;
-      font-size: 16px;
+      font-size: 20px;
       position: relative;
     `,
     svg: css`
