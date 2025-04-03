@@ -14,7 +14,7 @@ const getStyles = () => {
       position: relative;
     `,
     svg: css`
-      position: inherit;
+      position: absolute;
       top: 0;
       left: 0;
     `,
