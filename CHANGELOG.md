@@ -1,5 +1,9 @@
 # Changelog
 
+## [v2.1.1](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.1) (2025-04-03)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.0...v2.1.1)
+
 ## [v2.1.0](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.0) (2025-04-03)
 
 [Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.0.5...v2.1.0)
