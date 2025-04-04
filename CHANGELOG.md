@@ -1,5 +1,13 @@
 # Changelog
 
+## [v2.1.3](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.3) (2025-04-04)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.2...v2.1.3)
+
+**Merged pull requests:**
+
+- Change font size back to 16px [\#2](https://github.com/Ukochka/grafana-changelog-panel/pull/2) ([Ukochka](https://github.com/Ukochka))
+
 ## [v2.1.2](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.2) (2025-04-03)
 
 [Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.1...v2.1.2)
