@@ -1,10 +1,26 @@
 # Changelog
 
+## [v2.1.8](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.8) (2025-04-08)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.7...v2.1.8)
+
+## [v2.1.7](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.7) (2025-04-07)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.6...v2.1.7)
+
+## [v2.1.6](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.6) (2025-04-07)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.5...v2.1.6)
+
+- change using env variable to input use\_changelog-generatior [\#4](https://github.com/Ukochka/grafana-changelog-panel/pull/4) ([Ukochka](https://github.com/Ukochka))
+
+## [v2.1.5](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.5) (2025-04-04)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.4...v2.1.5)
+
 ## [v2.1.4](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.4) (2025-04-04)
 
 [Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.3...v2.1.4)
-
-**Merged pull requests:**
 
 - Change version [\#3](https://github.com/Ukochka/grafana-changelog-panel/pull/3) ([Ukochka](https://github.com/Ukochka))
 
@@ -12,15 +28,11 @@
 
 [Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.2...v2.1.3)
 
-**Merged pull requests:**
-
 - Change font size back to 16px [\#2](https://github.com/Ukochka/grafana-changelog-panel/pull/2) ([Ukochka](https://github.com/Ukochka))
 
 ## [v2.1.2](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.2) (2025-04-03)
 
 [Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.1...v2.1.2)
-
-**Merged pull requests:**
 
 - change font-size at TestPanel [\#1](https://github.com/Ukochka/grafana-changelog-panel/pull/1) ([Ukochka](https://github.com/Ukochka))
 
@@ -38,15 +50,15 @@
 
 ## [v2.0.4](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.0.4) (2025-04-02)
 
-[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.0.2...v2.0.4)
-
-## [v2.0.2](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.0.2) (2025-04-02)
-
-[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.0.3...v2.0.2)
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.0.3...v2.0.4)
 
 ## [v2.0.3](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.0.3) (2025-04-02)
 
-[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/2.0.1...v2.0.3)
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.0.2...v2.0.3)
+
+## [v2.0.2](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.0.2) (2025-04-02)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/2.0.1...v2.0.2)
 
 ## [2.0.1](https://github.com/Ukochka/grafana-changelog-panel/tree/2.0.1) (2025-04-02)
 
