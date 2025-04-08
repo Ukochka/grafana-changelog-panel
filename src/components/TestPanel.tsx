@@ -15,12 +15,12 @@ const getStyles = () => {
       position: relative;
     `,
     svg: css`
-      position: absolute;
+      position: relative;
       top: 0;
       left: 0;
     `,
     textBox: css`
-      position: absolute;
+      position: relative;
       bottom: 0;
       left: 0;
       padding: 10px;
