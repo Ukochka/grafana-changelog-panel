@@ -1,5 +1,13 @@
 # Changelog
 
+## [v2.1.9](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.9) (2025-04-08)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v.2.1.9...v2.1.9)
+
+## [v.2.1.9](https://github.com/Ukochka/grafana-changelog-panel/tree/v.2.1.9) (2025-04-08)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.8...v.2.1.9)
+
 ## [v2.1.8](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.1.8) (2025-04-08)
 
 [Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.1.7...v2.1.8)
@@ -54,15 +62,15 @@
 
 ## [v2.0.3](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.0.3) (2025-04-02)
 
-[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.0.2...v2.0.3)
-
-## [v2.0.2](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.0.2) (2025-04-02)
-
-[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/2.0.1...v2.0.2)
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/2.0.1...v2.0.3)
 
 ## [2.0.1](https://github.com/Ukochka/grafana-changelog-panel/tree/2.0.1) (2025-04-02)
 
-[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/2.0.0...2.0.1)
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/v2.0.2...2.0.1)
+
+## [v2.0.2](https://github.com/Ukochka/grafana-changelog-panel/tree/v2.0.2) (2025-04-02)
+
+[Full Changelog](https://github.com/Ukochka/grafana-changelog-panel/compare/2.0.0...v2.0.2)
 
 ## [2.0.0](https://github.com/Ukochka/grafana-changelog-panel/tree/2.0.0) (2025-04-02)
 
